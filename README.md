@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=flat-square&logo=#0A66C2&logoColor=blue)](https://www.linkedin.com/in/seoyoung-park-a78982217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=flat-square&logo=#0A66C2&logoColor=#0A66C2)](https://www.linkedin.com/in/seoyoung-park-a78982217/)
 
 <!--
 **WESTZERO115/WESTZERO115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
