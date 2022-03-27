@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m interested in K8S, DevOps, AI, Network
+- 🌱 I’m interested in K8s, DevOps, AI, Network
 
 
 - 📫 How to reach me: 
