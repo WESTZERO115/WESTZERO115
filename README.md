@@ -3,7 +3,7 @@
 </div> 
 
 
-- 🌱 I’m interested in K8s, DevOps, SRE, AI, Network, Cloud
+- 🌱 I’m interested in K8s, DevOps, SRE, Network, Cloud
 
 - 📫 How to reach me:   
 
