@@ -5,11 +5,12 @@
 
 - 🌱 I’m interested in K8s, DevOps, SRE, Network, Cloud, Backend
 
+<!--
 - 📫 How to reach me:   
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/seoyoung-park-a78982217/)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=black)](https://blog.naver.com/sudoblog)
-
+-->
 <!-- [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크) -->
 
 
